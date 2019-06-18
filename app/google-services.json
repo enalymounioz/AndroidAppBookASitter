@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344817596594",
+    "firebase_url": "https://bookabarber-b604d.firebaseio.com",
+    "project_id": "bookabarber-b604d",
+    "storage_bucket": "bookabarber-b604d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344817596594:android:5d76afbdd30d664c",
+        "android_client_info": {
+          "package_name": "com.example.bookabarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344817596594-dd4chnr95gk5ihlql8ifmaran807r0pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookabarber",
+            "certificate_hash": "0bc41b307d7556e8ad96ae553d450bf96ab46ad3"
+          }
+        },
+        {
+          "client_id": "344817596594-s9f1cmic8lh8vj6t4n79ld718c0q64tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4YpxpFLI0ilmBoHjyTcWhKgbE-bJxnrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344817596594-s9f1cmic8lh8vj6t4n79ld718c0q64tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

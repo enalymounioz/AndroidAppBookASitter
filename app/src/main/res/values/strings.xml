@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BookASitter</string>
+    <string name="FACEBOOK_APP_ID">324369168237105</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">a8e2e355fad6168b9a0abf7509fe6b99</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
